@@ -236,7 +236,7 @@ nav {
     align-items: flex-start;
     flex-direction: column;
     padding-top: 80px;
-    background: no-repeat center / cover url(./src/);
+    background: no-repeat center / cover url(./src/premier\ plan.jpg);
     filter: blur(0.5px);
     padding-left: 1rem;
     background-attachment: fixed;
